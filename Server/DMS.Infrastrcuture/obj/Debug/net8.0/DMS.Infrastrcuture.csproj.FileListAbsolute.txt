@@ -1,0 +1,17 @@
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\bin\Debug\net8.0\DMS.Infrastrcuture.deps.json
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\bin\Debug\net8.0\DMS.Infrastrcuture.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\bin\Debug\net8.0\DMS.Infrastrcuture.pdb
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\bin\Debug\net8.0\DMS.Application.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\bin\Debug\net8.0\DMS.Domain.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\bin\Debug\net8.0\DMS.Application.pdb
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\bin\Debug\net8.0\DMS.Domain.pdb
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\obj\Debug\net8.0\DMS.Infrastrcuture.csproj.AssemblyReference.cache
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\obj\Debug\net8.0\DMS.Infrastrcuture.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\obj\Debug\net8.0\DMS.Infrastrcuture.AssemblyInfoInputs.cache
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\obj\Debug\net8.0\DMS.Infrastrcuture.AssemblyInfo.cs
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\obj\Debug\net8.0\DMS.Infrastrcuture.csproj.CoreCompileInputs.cache
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\obj\Debug\net8.0\DMS.Infr.C4C83039.Up2Date
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\obj\Debug\net8.0\DMS.Infrastrcuture.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\obj\Debug\net8.0\refint\DMS.Infrastrcuture.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\obj\Debug\net8.0\DMS.Infrastrcuture.pdb
+E:\DIM\Distribution-Management-System\Server\DMS.Infrastrcuture\obj\Debug\net8.0\ref\DMS.Infrastrcuture.dll

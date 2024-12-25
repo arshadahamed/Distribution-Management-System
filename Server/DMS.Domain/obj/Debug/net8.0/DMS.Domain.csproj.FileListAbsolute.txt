@@ -1,0 +1,12 @@
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\bin\Debug\net8.0\DMS.Domain.deps.json
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\bin\Debug\net8.0\DMS.Domain.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\bin\Debug\net8.0\DMS.Domain.pdb
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\obj\Debug\net8.0\DMS.Domain.csproj.AssemblyReference.cache
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\obj\Debug\net8.0\DMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\obj\Debug\net8.0\DMS.Domain.AssemblyInfoInputs.cache
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\obj\Debug\net8.0\DMS.Domain.AssemblyInfo.cs
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\obj\Debug\net8.0\DMS.Domain.csproj.CoreCompileInputs.cache
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\obj\Debug\net8.0\DMS.Domain.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\obj\Debug\net8.0\refint\DMS.Domain.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\obj\Debug\net8.0\DMS.Domain.pdb
+E:\DIM\Distribution-Management-System\Server\DMS.Domain\obj\Debug\net8.0\ref\DMS.Domain.dll

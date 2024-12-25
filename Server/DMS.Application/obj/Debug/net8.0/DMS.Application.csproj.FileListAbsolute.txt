@@ -1,0 +1,15 @@
+E:\DIM\Distribution-Management-System\Server\DMS.Application\bin\Debug\net8.0\DMS.Application.deps.json
+E:\DIM\Distribution-Management-System\Server\DMS.Application\bin\Debug\net8.0\DMS.Application.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Application\bin\Debug\net8.0\DMS.Application.pdb
+E:\DIM\Distribution-Management-System\Server\DMS.Application\bin\Debug\net8.0\DMS.Domain.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Application\bin\Debug\net8.0\DMS.Domain.pdb
+E:\DIM\Distribution-Management-System\Server\DMS.Application\obj\Debug\net8.0\DMS.Application.csproj.AssemblyReference.cache
+E:\DIM\Distribution-Management-System\Server\DMS.Application\obj\Debug\net8.0\DMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIM\Distribution-Management-System\Server\DMS.Application\obj\Debug\net8.0\DMS.Application.AssemblyInfoInputs.cache
+E:\DIM\Distribution-Management-System\Server\DMS.Application\obj\Debug\net8.0\DMS.Application.AssemblyInfo.cs
+E:\DIM\Distribution-Management-System\Server\DMS.Application\obj\Debug\net8.0\DMS.Application.csproj.CoreCompileInputs.cache
+E:\DIM\Distribution-Management-System\Server\DMS.Application\obj\Debug\net8.0\DMS.Appl.46E95E34.Up2Date
+E:\DIM\Distribution-Management-System\Server\DMS.Application\obj\Debug\net8.0\DMS.Application.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Application\obj\Debug\net8.0\refint\DMS.Application.dll
+E:\DIM\Distribution-Management-System\Server\DMS.Application\obj\Debug\net8.0\DMS.Application.pdb
+E:\DIM\Distribution-Management-System\Server\DMS.Application\obj\Debug\net8.0\ref\DMS.Application.dll
